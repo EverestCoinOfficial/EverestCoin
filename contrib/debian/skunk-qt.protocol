@@ -1,0 +1,11 @@
+[Protocol]
+exec=everest-qt '%u'
+protocol=everest
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

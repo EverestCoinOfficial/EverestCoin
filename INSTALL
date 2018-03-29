@@ -1,0 +1,9 @@
+Building Everest
+
+See doc/readme-qt.rst for instructions on building Everest QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Everest.
+
+See doc/build-*.txt for instructions on building everestd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Everest.

@@ -1,0 +1,2 @@
+debian/bin/everestd usr/bin
+src/everestd usr/lib/everest
